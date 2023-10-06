@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Naufal Zhafif</h1>
+<h3 align="center">Im a Full Stack Developer with passion on backend from Indonesia</h3>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <!--
 **naufalzp/naufalzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

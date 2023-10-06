@@ -2,7 +2,7 @@
 <h3 align="center">Im a Full Stack Developer with passion on backend from Indonesia</h3>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://github.com/naufalzp">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>

@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/naufalzp">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/naufalzp/naufalzp/assets/98691805/2e164547-cc71-4889-8758-d8d13096a0c9"
        alt="snake" /></a>
 </div>
 
